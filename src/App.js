@@ -4,11 +4,6 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import home from './components/home';
 
 
-const pagenotfound = ({ location }) => (
-  <div>
-    <h3>No match for <code>{location.pathname}</code></h3>
-  </div>
-)
 
 class App extends Component {
   render() {
@@ -18,7 +13,6 @@ class App extends Component {
             <div id="content">
                 <Switch>
                     <Route exact path='/' component={home} />
-                    <Route component={pagenotfound}/>
                 </Switch>
             </div>
           </Router>
