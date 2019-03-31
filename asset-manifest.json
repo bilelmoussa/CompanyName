@@ -1,15 +1,15 @@
 {
-  "main.css": "/CompanyName/static/css/main.17e3417a.chunk.css",
-  "main.js": "/CompanyName/static/js/main.f5abfb5b.chunk.js",
-  "main.js.map": "/CompanyName/static/js/main.f5abfb5b.chunk.js.map",
+  "main.css": "/CompanyName/static/css/main.c82eedda.chunk.css",
+  "main.js": "/CompanyName/static/js/main.2704c0dc.chunk.js",
+  "main.js.map": "/CompanyName/static/js/main.2704c0dc.chunk.js.map",
   "runtime~main.js": "/CompanyName/static/js/runtime~main.b3baa908.js",
   "runtime~main.js.map": "/CompanyName/static/js/runtime~main.b3baa908.js.map",
-  "static/js/2.c6c5f25a.chunk.js": "/CompanyName/static/js/2.c6c5f25a.chunk.js",
-  "static/js/2.c6c5f25a.chunk.js.map": "/CompanyName/static/js/2.c6c5f25a.chunk.js.map",
+  "static/js/2.fe42aa91.chunk.js": "/CompanyName/static/js/2.fe42aa91.chunk.js",
+  "static/js/2.fe42aa91.chunk.js.map": "/CompanyName/static/js/2.fe42aa91.chunk.js.map",
   "index.html": "/CompanyName/index.html",
-  "precache-manifest.66545e572a6db8cf81e83950edb2ee97.js": "/CompanyName/precache-manifest.66545e572a6db8cf81e83950edb2ee97.js",
+  "precache-manifest.aa647a5beeaddbcb10e7139c231cd5e2.js": "/CompanyName/precache-manifest.aa647a5beeaddbcb10e7139c231cd5e2.js",
   "service-worker.js": "/CompanyName/service-worker.js",
-  "static/css/main.17e3417a.chunk.css.map": "/CompanyName/static/css/main.17e3417a.chunk.css.map",
+  "static/css/main.c82eedda.chunk.css.map": "/CompanyName/static/css/main.c82eedda.chunk.css.map",
   "static/media/1.jpg": "/CompanyName/static/media/1.6bcb6d01.jpg",
   "static/media/10.jpg": "/CompanyName/static/media/10.f5962e46.jpg",
   "static/media/11.jpg": "/CompanyName/static/media/11.ad86a191.jpg",
@@ -23,5 +23,8 @@
   "static/media/bg1.jpeg": "/CompanyName/static/media/bg1.bbe5ff18.jpeg",
   "static/media/bg2.jpg": "/CompanyName/static/media/bg2.585b92f2.jpg",
   "static/media/bg3.jpg": "/CompanyName/static/media/bg3.42513b05.jpg",
-  "static/media/App.css": "/CompanyName/static/media/clothes.cd7b2ecc.jpg"
+  "static/media/App.css": "/CompanyName/static/media/clothes.cd7b2ecc.jpg",
+  "static/media/facebook.svg": "/CompanyName/static/media/facebook.f8b97394.svg",
+  "static/media/instagram.svg": "/CompanyName/static/media/instagram.15bc5470.svg",
+  "static/media/twitter.svg": "/CompanyName/static/media/twitter.2ddca4c8.svg"
 }

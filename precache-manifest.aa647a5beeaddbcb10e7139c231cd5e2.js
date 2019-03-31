@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d3c1afb19323cf70c124df07f8ff4e22",
-    "url": "/CompanyName/static/media/13.d3c1afb1.jpg"
+    "revision": "f5962e46f91012b3daf5f3b98f803622",
+    "url": "/CompanyName/static/media/10.f5962e46.jpg"
   },
   {
-    "revision": "26c0f0065ef696909378",
-    "url": "/CompanyName/static/css/main.17e3417a.chunk.css"
+    "revision": "619c213c5ee5dc197b93",
+    "url": "/CompanyName/static/css/main.c82eedda.chunk.css"
   },
   {
     "revision": "d093015bd48a675b8884",
     "url": "/CompanyName/static/js/runtime~main.b3baa908.js"
   },
   {
-    "revision": "733b25c0d82a8d080bdd",
-    "url": "/CompanyName/static/js/2.c6c5f25a.chunk.js"
+    "revision": "be04d15b065f86279a89",
+    "url": "/CompanyName/static/js/2.fe42aa91.chunk.js"
   },
   {
     "revision": "51b28d1885d6f549185ebcfe16e6fd79",
@@ -36,16 +36,16 @@ self.__precacheManifest = [
     "url": "/CompanyName/static/media/bg3.42513b05.jpg"
   },
   {
-    "revision": "26c0f0065ef696909378",
-    "url": "/CompanyName/static/js/main.f5abfb5b.chunk.js"
+    "revision": "d3c1afb19323cf70c124df07f8ff4e22",
+    "url": "/CompanyName/static/media/13.d3c1afb1.jpg"
   },
   {
     "revision": "ad86a191a73749f17b791d55b68b465b",
     "url": "/CompanyName/static/media/11.ad86a191.jpg"
   },
   {
-    "revision": "f5962e46f91012b3daf5f3b98f803622",
-    "url": "/CompanyName/static/media/10.f5962e46.jpg"
+    "revision": "619c213c5ee5dc197b93",
+    "url": "/CompanyName/static/js/main.2704c0dc.chunk.js"
   },
   {
     "revision": "5d317e2310a8a6c3cec96e32a85a3463",
@@ -72,7 +72,19 @@ self.__precacheManifest = [
     "url": "/CompanyName/static/media/8.d3c1afb1.jpg"
   },
   {
-    "revision": "f5975534bd7da916dd05818f967f5d06",
+    "revision": "f8b9739423f45f1b3a26d1bf47928b97",
+    "url": "/CompanyName/static/media/facebook.f8b97394.svg"
+  },
+  {
+    "revision": "15bc5470aea6d2d05200dff45c14e92b",
+    "url": "/CompanyName/static/media/instagram.15bc5470.svg"
+  },
+  {
+    "revision": "2ddca4c88e798affc171876ac20db358",
+    "url": "/CompanyName/static/media/twitter.2ddca4c8.svg"
+  },
+  {
+    "revision": "82fb4dcfe5265f6b66aac0903475d25e",
     "url": "/CompanyName/index.html"
   }
 ];
